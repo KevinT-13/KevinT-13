@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kevin Troncoso 
 - 👀 I’m interested in Data Science & Machine Learning -- Supervised Learning/Algorithms. 
-- 🌱 I’m Data Analytics & Business Studies major studying at Bentley University. 
+- 🌱 I’m a Data Analytics & Business Studies major studying at Bentley University. 
 
 
 <!---
